@@ -1,3 +1,5 @@
+# Pleace remove all comments before use
+
 # from openai import OpenAI
  
 # pip install openai 
