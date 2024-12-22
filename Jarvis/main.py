@@ -1,3 +1,5 @@
+# Pleace remove all comments before use
+
 import speech_recognition as sr
 import webbrowser
 import pyttsx3
